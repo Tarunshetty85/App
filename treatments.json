@@ -1,0 +1,96 @@
+{
+    "Tomato___Bacterial_spot": {
+        "name_en": "Bacterial Spot",
+        "name_hi": "जीवाणु युक्त धब्बा (Bacterial Spot)",
+        "treatment_en": "Spray copper-based fungicides. Remove infected plant parts. Rotate crops.",
+        "treatment_hi": "ताम्र-आधारित कवकनाशी का छिड़काव करें। संक्रमित पौधों के अंगों को हटा दें। फसलों का चक्रानुक्रम करें।",
+        "chemicals": [
+            "Copper Oxychloride",
+            "Streptomycin"
+        ]
+    },
+    "Tomato___Early_blight": {
+        "name_en": "Early Blight",
+        "name_hi": "अगेती झुलसा (Early Blight)",
+        "treatment_en": "Apply fungicides like Mancozeb or Chlorothalonil. Improve air circulation. Mulch soil.",
+        "treatment_hi": "मैनकोजेब या क्लोरोथलोनिल जैसे कवकनाशी का प्रयोग करें। हवा का संचार सुधारें। मिट्टी की मल्चिंग करें।",
+        "chemicals": [
+            "Mancozeb",
+            "Chlorothalonil"
+        ]
+    },
+    "Tomato___Late_blight": {
+        "name_en": "Late Blight",
+        "name_hi": "पछेती झुलसा (Late Blight)",
+        "treatment_en": "Apply fungicides containing Metalaxyl or Mancozeb. Destroy infected plants immediately.",
+        "treatment_hi": "मेटालेक्सिल या मैनकोजेब युक्त कवकनाशी का प्रयोग करें। संक्रमित पौधों को तुरंत नष्ट कर दें।",
+        "chemicals": [
+            "Metalaxyl",
+            "Mancozeb"
+        ]
+    },
+    "Tomato___Leaf_Mold": {
+        "name_en": "Leaf Mold",
+        "name_hi": "पत्ती का फफूंद (Leaf Mold)",
+        "treatment_en": "Improve ventilation. Apply fungicides like Copper or Chlorothalonil.",
+        "treatment_hi": "हवा का संचार सुधारें। कॉपर या क्लोरोथलोनिल जैसे कवकनाशी का प्रयोग करें।",
+        "chemicals": [
+            "Copper fungicide",
+            "Chlorothalonil"
+        ]
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "name_en": "Septoria Leaf Spot",
+        "name_hi": "सेप्टोरिया पत्ती धब्बा (Septoria Leaf Spot)",
+        "treatment_en": "Remove lower infected leaves. Apply fungicides like Chlorothalonil.",
+        "treatment_hi": "नीचे की संक्रमित पत्तियों को हटा दें। क्लोरोथलोनिल जैसे कवकनाशी का प्रयोग करें।",
+        "chemicals": [
+            "Chlorothalonil",
+            "Mancozeb"
+        ]
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "name_en": "Spider Mites",
+        "name_hi": "लाल मकड़ी (Spider Mites)",
+        "treatment_en": "Use Neem oil or insecticidal soap. Spray water to dislodge mites.",
+        "treatment_hi": "नीम के तेल या कीटनाशक साबुन का प्रयोग करें। मकड़ियों को हटाने के लिए पानी का छिड़काव करें।",
+        "chemicals": [
+            "Neem Oil",
+            "Abamectin"
+        ]
+    },
+    "Tomato___Target_Spot": {
+        "name_en": "Target Spot",
+        "name_hi": "लक्ष्य धब्बा (Target Spot)",
+        "treatment_en": "Improve airflow. Apply fungicides like Chlorothalonil or Mancozeb.",
+        "treatment_hi": "हवा का प्रवाह सुधारें। क्लोरोथलोनिल या मैनकोजेब जैसे कवकनाशी का प्रयोग करें।",
+        "chemicals": [
+            "Chlorothalonil",
+            "Mancozeb"
+        ]
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "name_en": "Yellow Leaf Curl Virus",
+        "name_hi": "पीला पत्ती मरोड़ रोग (Yellow Leaf Curl Virus)",
+        "treatment_en": "Control whiteflies using sticky traps or Neem oil. Remove infected plants.",
+        "treatment_hi": "चिपचिपे जाल या नीम के तेल का उपयोग करके सफेद मक्खियों को नियंत्रित करें। संक्रमित पौधों को हटा दें।",
+        "chemicals": [
+            "Imidacloprid",
+            "Neem Oil"
+        ]
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "name_en": "Mosaic Virus",
+        "name_hi": "मोज़ेक वायरस (Mosaic Virus)",
+        "treatment_en": "No cure. Remove infected plants. Wash hands and tools to prevent spread. Use resistant varieties.",
+        "treatment_hi": "कोई इलाज नहीं है। संक्रमित पौधों को हटा दें। प्रसार को रोकने के लिए हाथ और औजार धोएं। प्रतिरोधी किस्मों का उपयोग करें।",
+        "chemicals": []
+    },
+    "Tomato___healthy": {
+        "name_en": "Healthy",
+        "name_hi": "स्वस्थ (Healthy)",
+        "treatment_en": "Continue regular care. Monitor for pests and diseases.",
+        "treatment_hi": "नियमित देखभाल जारी रखें। कीटों और बीमारियों की निगरानी करें।",
+        "chemicals": []
+    }
+}

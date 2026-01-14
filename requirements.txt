@@ -1,0 +1,14 @@
+kagglehub
+torch
+torchvision
+timm
+pillow
+pillow-heif
+pandas
+scikit-learn
+numpy
+gradio
+# For Web API
+fastapi
+uvicorn
+python-multipart
